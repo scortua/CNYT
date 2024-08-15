@@ -3,5 +3,9 @@ log.txt
 # Editor
 .vscode/
 
+# compiled python files
 .pycache/
 .pyc
+
+# Byte-compiled / optimized / DLL files
+tercio\ 1/complexNumbers/__pycache__/
