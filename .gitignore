@@ -1,1 +1,7 @@
 log.txt
+
+# Editor
+.vscode/
+
+.pycache/
+.pyc
