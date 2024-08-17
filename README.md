@@ -8,7 +8,7 @@
 We learned how the complex numbers exit, how they have arithmetic opertation and how they also share the caracteristics with the vectors.
 
     - **Add**
-         $(a,b) + (c,d) = (a+c,b+d)$
+        $(a,b) + (c,d) = (a+c,b+d)$
     - **Multiplication**
         $(a,b) * (c,d) = (ac - bd, ad + bc)$
     - **Substration**
@@ -23,7 +23,7 @@ We learned how the complex numbers exit, how they have arithmetic opertation and
         - *Cartecian*
         $(a,b) = a + bi$
         - *Polar*
-        $(r,θ) $
+        $(r,θ)$
     - **Phase**
         $θ = arctan(\frac{a}{b})$
 
