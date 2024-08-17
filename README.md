@@ -10,36 +10,21 @@ We learned how the complex numbers exit, how they have arithmetic opertation and
     - **Add**
          $(a,b) + (c,d) = (a+c,b+d)$
     - **Multiplication**
-        $
-        (a,b) * (c,d) = (ac - bd, ad + bc)$
+        $(a,b) * (c,d) = (ac - bd, ad + bc)$
     - **Substration**
-        $
-        (a,b) - (c,d) = (a - c, b - d)
-        $
+        $(a,b) - (c,d) = (a - c, b - d)$
     - **Division**
-        $
-        \frac{(a,b)}{(c,d)} = (\frac{ac + bd}{c^2 + d^2}, \frac{bc - ad}{c^2 + d^2})
-        $
+        $\frac{(a,b)}{(c,d)} = (\frac{ac + bd}{c^2 + d^2}, \frac{bc - ad}{c^2 + d^2})$
     - **Module**
-        $
-        |(a,b)| = \sqrt{a^2 + b^2}
-        $
+        $|(a,b)| = \sqrt{a^2 + b^2}$
     - **Conjugate**
-        $
-        (a,b) => (a,-b)
-        $
+        $(a,b) => (a,-b)$
     - **Coordinates**
         - *Cartecian*
-        $
-        (a,b) = a + bi
-        $
+        $(a,b) = a + bi$
         - *Polar*
-        $
-        (r,θ) 
-        $
+        $(r,θ) $
     - **Phase**
-        $
-        θ = arctan(\frac{a}{b})
-        $
+        $θ = arctan(\frac{a}{b})$
 
 * *2 week*
