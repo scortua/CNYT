@@ -3,6 +3,9 @@ log.txt
 # Editor
 .vscode/
 
+# virtual
+.venv/
+
 # compiled python files
 .pycache/
 .pyc
