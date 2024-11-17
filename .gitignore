@@ -12,3 +12,8 @@ log.txt
 
 # Byte-compiled / optimized / DLL files
 tercio\ 1/complexNumbers/__pycache__/
+
+# files of exercises
+algoritmos_1_2.pdf
+
+algoritmos_1_2.docx
